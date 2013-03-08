@@ -1,3 +1,3 @@
 import keyboardnoteinput
 
-keyboardnoteinput.noteminus5()
+keyboardnoteinput.note(2)

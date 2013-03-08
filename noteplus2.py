@@ -1,3 +1,3 @@
 import keyboardnoteinput
 
-keyboardnoteinput.noteplus2()
+keyboardnoteinput.note(9)

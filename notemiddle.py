@@ -1,3 +1,3 @@
 import keyboardnoteinput
 
-keyboardnoteinput.notemiddle()
+keyboardnoteinput.note(7)
