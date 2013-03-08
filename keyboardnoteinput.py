@@ -10,3 +10,4 @@ def note(n):
     RPR_MIDIEditor_OnCommand(actwin, unselect)  # unselect all
     RPR_MIDIEditor_OnCommand(actwin, insnum[n])  # insert note at note n
     RPR_MIDIEditor_OnCommand(actwin, moveright)  # move edit cursor right by grid
+    
